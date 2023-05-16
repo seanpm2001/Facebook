@@ -37,9 +37,9 @@ I had only 1 accounts on Facebook:
 |---|
 | Instagram logo (2016) when I was briefly a user |
 
-To be split off into a separate repository.
+Split off into [:octocat: `seanpm2001/Instagram`](https://github.com/seanpm2001/Instagram/)
 
-I only used Instagram for 1 day, playing with filters, then just completely abandoning it.
+I only used Instagram for 1 day, playing with filters, then just completely abandoning it. If you want more information, see [:octocat: `seanpm2001/Instagram`](https://github.com/seanpm2001/Instagram/)
 
 ## Former Facebook Messenger usage
 
@@ -143,6 +143,6 @@ Still helping family members who use it
 
 ***
 
-**File version:** `1 (2023, Monday, May 15th at 6:19 pm PST)`
+**File version:** `2 (2023, Tuesday, May 16th at 4:04 pm PST)`
 
 ***
