@@ -1,295 +1,148 @@
 
 ***
 
-# <projectName>
+# Facebook
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
-
-# By:
-
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
-
-### Top
-
-# `README.md`
+| <img alt="Facebook logo failed to load. Click/tap here to attempt to view it" src="/Facebook_Shiny_Icon.svg" width="256" height="256"/> |
+|---|
+| `🌐️📘️🇫 Former Facebook usage information for @seanpm2001` |
 
 ***
 
-## Read this article in a different language
+## Moving
 
-[ar عربى](README_AR.md) [zh-t 中國傳統的）](README_ZH-T.md)[**en-us**](README.md) [fr français](README_FR.md) [de Deutsch](README_DE.md) [EO Esperanto](README_EO.md)  [ja 日本語](README_JA.md) [ko-south 韓國語](README_KO_SOUTH.md) [pl polski](README_PL.md) [ru русский](README_RU.md) [es en español](README_ES.md)
+| <img alt="Not F'd failed to load. Click/tap here to attempt to view it" src="/no-facebook.svg" width="521" height="148"/> |
+|---|
+| [`Sticker used to show opposition to Facebook`](https://stallman.org/no-facebook.svg) |
 
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/seanpm2001/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
+I haven't really been active on Facebook since 2015, and I have no plans on returning. There isn't an alternative platform for me, and I don't really need one.
 
-***
+## Former usage of Facebook
 
-# Index
+| <img alt="Facebook logo failed to load. Click/tap here to attempt to view it" src="/Oxygen-actions-im-facebook.svg" width="256" height="256"/> |
+|---|
+| Facebook logo |
 
-[00.0 - Top](#Top)
+I formerly used Facebook for a combined 3 hours across a few weeks in 2015, until I abandoned it completely.
 
-> [00.1 - Title](#<projectName>)
+### Accounts
 
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
+I had only 1 accounts on Facebook:
 
-> [00.3 - Index](#Index)
+- [`Unknown`](https://example.com/)
 
-[01.0 - Description](#RepositoryName)
+## Former Instagram usage
 
-[02.0 - About](#About)
+| <img alt="Instagram logo failed to load. Click/tap here to attempt to view it" src="/Instagram_logo_2016.svg" width="256" height="256"/> |
+|---|
+| Instagram logo (2016) when I was briefly a user |
 
-[03.0 - Wiki](#Wiki)
+To be split off into a separate repository.
 
-[04.0 - Version history](#Version-history)
+I only used Instagram for 1 day, playing with filters, then just completely abandoning it.
 
-[05.0 - Software status](#Software-status)
+## Former Facebook Messenger usage
 
-[06.0 - Sponsor info](#Sponsor-info)
+| <img alt="Facebook Messenger logo failed to load. Click/tap here to attempt to view it" src="/Facebook_Messenger_logo_2018.svg" width="256" height="256"/> |
+|---|
+| Facebook Messenger logo (2018) a few years after I had stopped using it. |
 
-[07.0 - Contributers](#Contributers)
+To be split off into a separate repository.
 
-[08.0 - Issues](#Issues)
+During my brief time on Facebook, I did use Facebook Messenger for communications.
 
-> [08.1 - Current issues](#Current-issues)
+## GitHub forks
 
-> [08.2 - Past issues](#Past-issues)
+I fork Facebook projects on GitHub for archival purposes.
 
-> [08.3 - Past pull requests](#Past-pull-requests)
+## Family usage and assistance
 
-> [08.4 - Active pull requests](#Active-pull-requests)
+I don't use Facebook myself, but I do help family members who use it.
 
-[09.0 - Resources](#Resources)
+### Account backup attempts
 
-[10.0 - Contributing](#Contributing)
+I have never attempted to backup my Facebook account.
 
-[11.0 - About README](#About-README)
+## Opposition
 
-[12.0 - README Version history](#README-version-history)
+I am strongly opposed to the Facebook company.
 
-[13.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+### Why am I opposed to Facebook?
 
-> [13.1 - End of file](#EOF)
+Y'know, just the obvious reasons:
 
-***
+- Privacy (Data collection, sale, surveillance, tracker)
+- Hate speech (promotion of hate speech, bad algorithms, war crimes (inciting a genocide in Myanmar))
+- Proprietary (Facebook is proprietary software)
+- Plagiarism (Facebook was plagiarized/stolen from the university it was created in)
+- Bad user interface (not just flat design, it is also very poorly designed, For example, there is no need for 3 large scrollbars to be within 12 centimeters (300 PPI) horizontally of each other)
+- Just not being a very good platform
+- Other reasons
 
-# <repoName>
-<repo_description>
+### Opposition to the usage of the word meta
 
-***
+I am opposed to the usage of the word 'meta' by Facebook. Meta is too common of a word for usage as a company name, especially in the computer industry. You may notice that I don't refer to Facebook as "Meta" or "Meta Platforms", this is why.
 
-## About
+### Opposition to Facebook
 
-See above. <extendedRepoDescription>
+| <img alt="Facebook logo failed to load. Click/tap here to attempt to view it" src="/Oxygen-actions-im-facebook.svg" width="256" height="256"/> |
+|---|
+| Facebook logo |
 
-***
+I am strongly opposed to Facebook. See above.
 
-## Wiki
+### Opposition to Instagram
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
+| <img alt="Instagram logo failed to load. Click/tap here to attempt to view it" src="/Instagram_logo_2016.svg" width="256" height="256"/> |
+|---|
+| Instagram logo (2016) when I was briefly a user |
 
-If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
+I am opposed to Instagram. Since I don't have an account anymore, there is no way for me to even view Instagram posts, since it is a completely walled site. I don't want to use it anyways.
 
-***
+### Opposition to WhatsApp
 
-## Sponsor info
+#### WhatsApp avoidance
 
-![SponsorButton.png](SponsorButton.png)
+| <img alt="WhatsApp Messenger logo failed to load. Click/tap here to attempt to view it" src="/WhatsApp.svg" width="256" height="256"/> |
+|---|
+| WhatsApp logo. |
 
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
+I avoid Facebook entirely. Since WhatsApp is owned by Facebook, I also avoid it. I do not open WhatsApp links, under any circumstance.
 
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
+### Opposition to Facebook Messenger
 
-Try it out! The sponsor button is right up next to the watch/unwatch button.
+| <img alt="Facebook Messenger logo failed to load. Click/tap here to attempt to view it" src="/Facebook_Messenger_logo_2018.svg" width="256" height="256"/> |
+|---|
+| Facebook Messenger logo (2018) a few years after I had stopped using it. |
 
-***
+I avoid Facebook entirely. Since Facebook Messenger is owned by Facebook, I also avoid it.
 
-## Version history
+### Opposition to Internet.org
 
-**Version history currently unavailable**
+| <img alt="Facebook.org logo failed to load. Click/tap here to attempt to view it" src="/Internet_org_logo.svg" width="256" height="256"/> |
+|---|
+| "Internet.org" logo. |
 
-**No other versions listed**
-
-***
-
-## Software status
-
-All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
-
-![DRM-free_label.en.svg](DRM-free_label.en.svg)
-
-This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
-
-I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
-
-Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
-
-***
-
-## Contributers
-
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
-
-> * 2. No other contributers.
+Internet.org is just Facebook desecrating the name of the Internet to impose censorship, restriction, and zero-rating on underdeveloped countries, just trapping their population further into a boring dystopia.
 
 ***
 
-## Issues
+**Notes 2023.05.15**
 
-### Current issues
-
-* None at the moment
-
-* No other current issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past issues
-
-* None at the moment
-
-* No other past issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past pull requests
-
-* None at the moment
-
-* No other past pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Active pull requests
-
-* None at the moment
-
-* No other active pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
+```plain-text
+Facebook old usage
+Not f'd
+Opposition to Facebook
+Opposition to the name Meta
+Opposition to Internet.org
+WhatsApp avoidance
+Instagram former usage
+Messenger former usage
+Still helping family members who use it
+```
 
 ***
 
-## Resources
-
-Here are some other resources for this project:
-
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
-
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
-
-No other resources at the moment.
-
-***
-
-## Contributing
-
-Contributing is allowed for this project, as long as you follow the rules of the `CONTRIBUTING.md` file.
-
-[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
-
-***
-
-## About README
-
-File type: `Markdown (*.md)`
-
-File version: `0.1 (Sunday, March 21st 2021 at 7:50 pm)`
-
-Line count: `0,296`
-
-***
-
-## README version history
-
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
-
-> Changes:
-
-> * Started the file
-
-> * Added the title section
-
-> * Added the index
-
-> * Added the about section
-
-> * Added the Wiki section
-
-> * Added the version history section
-
-> * Added the issues section.
-
-> * Added the past issues section
-
-> * Added the past pull requests section
-
-> * Added the active pull requests section
-
-> * Added the contributors section
-
-> * Added the contributing section
-
-> * Added the about README section
-
-> * Added the README version history section
-
-> * Added the resources section
-
-> * Added a software status section, with a DRM free sticker and message
-
-> * Added the sponsor info section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 1
-
-Version 2 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 2
-
-***
-
-### You have reached the end of the README file
-
-[Back to top](#Top) [Exit](https://github.com)
-
-### EOF
+**File version:** `1 (2023, Monday, May 15th at 6:19 pm PST)`
 
 ***
